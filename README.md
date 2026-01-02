@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Musig Logo](public/images/logos/logo.webp)
+
 
 [![Starknet](https://img.shields.io/badge/Starknet-FF0420?style=for-the-badge&logo=starknet&logoColor=white)](https://starknet.io/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
