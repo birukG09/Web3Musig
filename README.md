@@ -143,7 +143,7 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🎯 Roadmap
+##  🎯 Roadmap
 
 ### **Phase 1: Foundation** ✅
 - [x] Core music creation tools
