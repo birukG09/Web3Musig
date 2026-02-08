@@ -72,7 +72,7 @@ To redefine music in Web3 by merging art, technology, and creativity to empower 
 - **🎮 Gamification Metrics**: Level progression, rewards, and engagement
 - **👛 Wallet Connection Analytics**: Track Web3 adoption and usage patterns
 - **🔒 Privacy-First**: GDPR compliant with no personal data collection
-
+.
 ---
 
 ## 🛠️ Technology Stack
