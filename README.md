@@ -47,7 +47,7 @@ To redefine music in Web3 by merging art, technology, and creativity to empower 
 - **🎲 Vegas Mint Game**: Spin to win rewards and special items
 - **📅 Daily Rewards**: Login bonuses and streak rewards
 - **🏅 Achievement System**: Unlock badges and special recognition
-- **💎 Premium Features**: Advanced tools for power users
+- **💎 Premium Features**: Advanced tools for power userss
 
 ### 🖼️ **NFT Marketplace & Collections**
 - **🎵 Musical NFTs**: Mint your creations as unique digital assets
