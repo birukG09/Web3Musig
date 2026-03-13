@@ -1,4 +1,4 @@
-# 🎵 Musig - Community-Driven Musical Signature Generator      
+# 🎵 MusigZ - Community-Driven Musical Signature Generator      
 
 <div align="center">
 
