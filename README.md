@@ -16,7 +16,7 @@
 ## 🌟 Vision & Mission
 
 ### 🎯 Vision
-To redefine music in Web3 by merging art, technology, and creativity to empower artists and engage audiences worldwide.
+To redefine music in Web3 by merging art, technology, and creativity to empower artists and engage audiences worldwide .
 
 ### 🚀 Mission
 **Musig** is committed to make music creation and NFT monetization accessible to everyone while pioneering innovation in audiovisual expression and interactive technology.
