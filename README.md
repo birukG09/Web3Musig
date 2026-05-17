@@ -11,7 +11,7 @@
 
 </div>
 
----.
+---
 
 ## 🌟 Vision & Mission
 
